@@ -1,0 +1,3 @@
+mediacloud==3.9.3
+savepagenow==0.0.13
+newspaper3k==0.2.8
